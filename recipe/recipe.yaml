@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.3.4"
+  version: "2.3.5"
   python_min: "3.13"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/m/mvpure-py/mvpure_py-${{ version }}.tar.gz
-  sha256: b2acb2618f3c6d462060b6cd4d8ed0257ef5ea78783655285dfa817f458ab638
+  sha256: fa7e98e9b73f339c3ed9422f1cddcec3c6fad14881087225dadcbe1c3f86bfca
 
 build:
   number: 0
